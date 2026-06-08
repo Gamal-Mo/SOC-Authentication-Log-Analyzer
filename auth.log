@@ -1,0 +1,3 @@
+2026-06-02 15:30:22 user=admin ip=192.168.3.4 action=failed_login
+2026-06-02 15:30:25 user=john ip=192.168.3.4 action=failed_login
+2026-06-02 15:30:28 user=sara ip=192.168.3.4 action=failed_login
